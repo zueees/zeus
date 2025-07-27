@@ -1,6 +1,6 @@
 ## 🎨 Customize it your way
 If you want to change the **music**, **background**, or **cursor**, just replace the corresponding files in the `assets/` folder.
-Make sure to keep the **same file format** (e.g. `.mp3`, `.png`, `.cur`) to avoid issues.
+Make sure to keep the **same file format** (e.g. `.mp3`, `.png`, `.mp4`) to avoid issues.
 
 You can fully edit the script, change styles, add features, or fix bugs — go wild.
 Have fun creating your own version!
