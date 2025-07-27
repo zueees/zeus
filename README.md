@@ -50,7 +50,7 @@ Place your files into the `assets/` folder with these exact filenames:
 - `developer.png`
 
 #### 🔤 Fonts
-- `Angel_wish.ttf`
+- `Angel_wish.otf`
   *(You can use any font, just rename it to match this file)*
 
 #### 🎞️ Profile / Role GIFs (GIF)
