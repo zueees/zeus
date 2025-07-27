@@ -47,7 +47,6 @@ Place your files into the `assets/` folder with these exact filenames:
 - `python.png`
 - `cpp.png`
 - `csharp.png`
-- `developer.png`
 
 #### 🔤 Fonts
 - `Angel_wish.otf`
@@ -63,6 +62,7 @@ Place your files into the `assets/` folder with these exact filenames:
 - `staff.gif`
 - `rule_maker.gif`
 - `verified.gif`
+- `developer.gif`
 
 ---
 ✅ **Important:**
